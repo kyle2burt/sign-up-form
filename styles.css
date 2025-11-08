@@ -97,7 +97,7 @@ button {
     width: 180px;
     height: 35px;;
 }
-form p {
+form > p {
     margin-left: 50px;
 }
 form p a {
